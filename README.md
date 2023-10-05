@@ -1,16 +1,12 @@
-### Hi there 👋
+# Welcome, Arsyux GitHub!
 
-<!--
-**Arsyux/Arsyux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚공부 목록
+- **윤성우, 『윤성우의 열혈 C 프로그래밍』, 오렌지미디어(2010)**
+- **박상현, 『이것이 C#이다』, 한빛미디어(2018)**
+- **아르노베유, 「WPF MVVM 일주일 만에 배우기」, 금재용, 에이콘출판(2017)**
+- **남궁성, 『Java의 정석』, 도우출판(2016)**
+- **박명철, 『코드를 통해 본 빵형의 실전 Java』, 남가람북스(2020)**
+- **고경희, 『Do it! HTML5+CSS3 웹 표준의 정석』, 이지스퍼블리싱(2019)**
+- **고경희, 『Do it! 자바스크립트 기본 편』, 이지스퍼블리싱(2019)**
+- **이지훈, 『Do it! 오라클로 배우는 데이터베이스 입문』, 이지스퍼블리싱(2018)**
+- **채규태, 『채쌤의 스프링 부트 프로젝트』, 쌤즈(2022)**
