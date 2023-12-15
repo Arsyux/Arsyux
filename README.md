@@ -1,7 +1,7 @@
 # Welcome, Arsyux GitHub!
 안녕하세요!<br>
 SpringBoot 백엔드 개발자를 준비하고 있는 주대현입니다!<br>
-현재 **[개인 포트폴리오](https://github.com/Arsyux/thecar-springboot-project)** 의 버그 수정중입니다!
+- **[개인 포트폴리오](https://github.com/Arsyux/thecar-springboot-project)**
 
 ## 📌 보유 자격증
 - **정보처리기사**
