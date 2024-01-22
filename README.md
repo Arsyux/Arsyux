@@ -1,6 +1,6 @@
 # Welcome, Arsyux GitHub!
 안녕하세요!<br>
-현재는 프론트쪽도 공부하고있습니다!
+현재는 프론트쪽도 공부하고있습니다!<br>
 
 - **[개인 포트폴리오](https://github.com/Arsyux/thecar-springboot-project)**
 
