@@ -2,7 +2,8 @@
 안녕하세요!<br>
 현재는 프론트쪽도 공부하고있습니다!<br>
 
-- **[개인 포트폴리오](https://github.com/Arsyux/thecar-springboot-project)**
+- **[개인 포트폴리오1](https://github.com/Arsyux/thecar-springboot-project)**
+- **[개인 포트폴리오2](https://github.com/Arsyux/arrow-springboot-project)**
 
 ## 📌 보유 자격증
 - **정보처리기사**
