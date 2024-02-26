@@ -3,7 +3,9 @@
 현재는 프론트쪽도 공부하고있습니다!<br>
 
 - **[개인 포트폴리오1](https://github.com/Arsyux/thecar-springboot-project)**
-- **[개인 포트폴리오2](https://github.com/Arsyux/arrow-springboot-project)**
+  - 차량 탁송 홈페이지입니다.
+- **[개인 포트폴리오2(작업중)](https://github.com/Arsyux/arrow-springboot-project)**
+  - 박물관 키오스크를 웹으로 구현해보고있습니다.
 
 ## 📌 보유 자격증
 - **정보처리기사**
