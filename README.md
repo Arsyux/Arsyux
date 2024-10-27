@@ -1,7 +1,6 @@
 # Welcome, Arsyux GitHub!
 안녕하세요!<br>
 
-현재 포트폴리오 작업중입니다!
 
 
 
